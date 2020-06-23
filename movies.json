@@ -1,0 +1,86 @@
+[
+ {
+  "_id": "5e560a31fe56684b4c90f44a",
+  "title": "Airplane",
+  "numberInStock": { "$numberInt": "5" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f449", "name": "Comedy" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f44b",
+  "title": "The Hangover",
+  "numberInStock": { "$numberInt": "10" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f449", "name": "Comedy" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f44c",
+  "title": "Wedding Crashers",
+  "numberInStock": { "$numberInt": "15" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f449", "name": "Comedy" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f44e",
+  "title": "Die Hard",
+  "numberInStock": { "$numberInt": "5" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f44d", "name": "Action" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f44f",
+  "title": "Terminator",
+  "numberInStock": { "$numberInt": "10" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f44d", "name": "Action" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f450",
+  "title": "The Avengers",
+  "numberInStock": { "$numberInt": "15" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f44d", "name": "Action" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f452",
+  "title": "The Notebook",
+  "numberInStock": { "$numberInt": "5" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f451", "name": "Romance" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f453",
+  "title": "When Harry Met Sally",
+  "numberInStock": { "$numberInt": "10" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f451", "name": "Romance" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f454",
+  "title": "Pretty Woman",
+  "numberInStock": { "$numberInt": "15" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f451", "name": "Romance" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f456",
+  "title": "The Sixth Sense",
+  "numberInStock": { "$numberInt": "5" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f455", "name": "Thriller" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f457",
+  "title": "Gone Girl",
+  "numberInStock": { "$numberInt": "10" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f455", "name": "Thriller" }
+ },
+ {
+  "_id": "5e560a31fe56684b4c90f458",
+  "title": "The Others",
+  "numberInStock": { "$numberInt": "15" },
+  "dailyRentalRate": { "$numberInt": "2" },
+  "genre": { "_id": "5e560a31fe56684b4c90f455", "name": "Thriller" }
+ }
+]
